@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### H2 DB ###
+eazystore_db.lock.db
+eazystore_db.mv.db
+eazystore_db.trace.db
